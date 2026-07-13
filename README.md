@@ -118,15 +118,9 @@ The application provides:
 
 ---
 
-## 📸 Application Preview
-
-*(Add screenshots of your Streamlit dashboard here after deployment.)*
-
----
-
 ## 🌐 Live Demo
 
-
+https://customer-segmentationsystem-3hsvshvmxrpkfi6nwyznjr.streamlit.app/#customer-segmentation-system
 
 ---
 
